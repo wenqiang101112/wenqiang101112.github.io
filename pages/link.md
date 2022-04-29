@@ -42,7 +42,7 @@ permalink: /link
 ## Github 开源项目
 - [ruoyi](https://github.com/yangzongzhuan/RuoYi) -http://doc.ruoyi.vip/   
 - [JeeSite](https://github.com/thinkgem/jeesite) -http://jeesite.com/   
-- [EL-Admin](https://github.com/wdsheng0i/eladmin) -https://el-admin.vip/      
+- [EL-Admin](https://github.com/wenqiang101112/eladmin) -https://el-admin.vip/      
 - [NiceFish（美人鱼）](https://gitee.com/mumu-osc/NiceFish) 
 - [1.网易云音乐开源API传送门](https://github.com/Binaryify/NeteaseCloudMusicApi )  
 	[api应用 项目地址](https://github.com/tyhjh/Jinyuneffect)

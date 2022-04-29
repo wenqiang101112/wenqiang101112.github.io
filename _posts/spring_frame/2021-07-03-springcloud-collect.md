@@ -5,7 +5,7 @@ category: springcloud
 tags: [springcloud]
 ---
 ## 收集 Spring Cloud 相关的学习资料
-> 学习 Spring Cloud 首先需要了解 Spring Boot，不了解 Spring Boot 的同学戳这里[Spring Boot学习资料汇总](https://wdsheng0i.github.io/springboot/2021/02/25/springboot-collect.html)
+> 学习 Spring Cloud 首先需要了解 Spring Boot，不了解 Spring Boot 的同学戳这里[Spring Boot学习资料汇总](https://wenqiang101112.github.io/springboot/2021/02/25/springboot-collect.html)
 
 官网    
 - [Spring Cloud 官网](http://projects.spring.io/spring-cloud/)  

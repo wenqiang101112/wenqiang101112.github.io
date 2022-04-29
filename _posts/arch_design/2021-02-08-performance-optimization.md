@@ -172,7 +172,7 @@ nohup java -Xms2048m -Xmx2048m -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=
 3.springboot 启动时加JVM参数         
 nohup java -Xms2048m -Xmx2048m -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/data/java_heapdump.hprof -jar demo-server.jar --spring.profiles.active=pro
 
-4.使用示例 https://wdsheng0i.github.io/arch/2021/02/10/mat.html
+4.使用示例 https://wenqiang101112.github.io/arch/2021/02/10/mat.html
 ```
 
 ### 4.3.Tomcat调优

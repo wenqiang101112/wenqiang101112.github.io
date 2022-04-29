@@ -8,14 +8,14 @@ permalink: /bookmark
 ---
 
 ## 社区
-- [GitHub](https://github.com/wdsheng0i)  
-    wdsheng0i/cymm1    
+- [GitHub](https://github.com/wenqiang101112)  
+    wenqiang101112/cymm1    
     github资料汇总：https://blog.csdn.net/lycyingO/article/details/102693626
-- [码云Gitee](https://gitee.com/wdsheng0i)  
+- [码云Gitee](https://gitee.com/wenqiang101112)  
     sjhm/cymm1 
 - [processon](https://www.processon.com/diagrams)  
     sjhm/cymm1 
-- [leetcode](https://leetcode-cn.com/u/wdsheng0i/)    
+- [leetcode](https://leetcode-cn.com/u/wenqiang101112/)    
     sjhm/cymm1    
 - [CSDN](https://blog.csdn.net/ )    
     sjhm/cymm2  

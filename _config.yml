@@ -15,9 +15,9 @@ keywords: Java,Jvm,Spring,Spring Boot,Spring Cloud,Redis,Mq,MongoDB,FastDFS,Dock
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: wdsheng0i/wdsheng0i.github.io
-github_url: https://github.com/wdsheng0i
-url: http://www.wdsheng0i.github.io
+repository: wenqiang101112/wenqiang101112.github.io
+github_url: https://github.com/wenqiang101112
+url: http://www.wenqiang101112.github.io
 
 ## Gem
 plugins:
